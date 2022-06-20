@@ -12,6 +12,6 @@ go to overview to see the entire operation endpoints: 'overview': 'api/v1/',
 4) To list out task: {'list view': 'api/v1/list/'},
 5) To give details of a task: {'detail view': 'api/v1/detail/<int:id>/'}
 
-#Authentication
+# Authentication
     using this api require authorization(Tokenauthentication):
         Register a new user with: {'register': 'api/v1/register/'}, to get your token for authentication
