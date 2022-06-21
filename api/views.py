@@ -17,7 +17,7 @@ from django.contrib.auth.models import User
 
 def apiOverview(request):
     api_urls = {
-        'overview': 'api/v1/'
+        'overview': 'api/v1/',
         'create': 'api/v1/create/',
         'update': 'api/v1/update/<int:id>/',
         'delete': 'api/v1/delete/<int:id>/',
