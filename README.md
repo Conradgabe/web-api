@@ -1,7 +1,7 @@
 # web-api
 web API with CRUD functionality
 # Intro
-    this a task creation api
+    this a task CRUD api
 
 # Guide
 go to overview to see the entire operation endpoints: 'overview': 'api/v1/',
