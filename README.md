@@ -15,3 +15,4 @@ go to overview to see the entire operation endpoints: 'overview': 'api/v1/',
 # Authentication
     using this api require authorization(Tokenauthentication as API key):
         Register a new user with: {'register': 'api/v1/register/'}, to get your token for authentication
+        Registration requires a username and password.
